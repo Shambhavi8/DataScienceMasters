@@ -1,0 +1,2 @@
+# This script uses quicksort to sort an array of integers
+# and counts the number of comparisons needed to do so
